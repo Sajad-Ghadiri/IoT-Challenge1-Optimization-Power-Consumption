@@ -32,8 +32,8 @@ The project includes a detailed estimation of power consumption for each state:
 Measurements of state durations were performed in the Wokwi emulator using `micros()` to ensure high-fidelity energy modeling.
 
 ## 5. Team Members
-* **Sajad Ghadiri** - *Person Code: 10692911* (Team Leader)
-* **[Teammate Name]** - *Person Code: [Insert Code]*
+* **Sajad Ghadiri** 
+* **Fatemeh Kiani** 
 
 ## 6. Project Structure
 * `Challenge1.ino`: ESP32 source code.
